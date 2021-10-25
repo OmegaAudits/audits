@@ -1,4 +1,6 @@
-# Team Omega 
+# Team Omega Ω
+
+
 
 We do Solidity Audits
 
