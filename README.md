@@ -6,5 +6,5 @@ We do Solidity Audits
 
 
 For more info:
-* [teamomega.eth.link](https://teamomega.eth.link/)
-*  omega88888888@protonmail.com 
+* [teamomega.eth.limo](https://teamomega.eth.limo/)
+*  OmageAudits@protonmail.com 
